@@ -1,0 +1,201 @@
+Order_ID,Product,Category,Quantity,Sales,Profit,Discount,Region,City,Order_Date
+1,Backpack,Accessories,4,190241.43,44325.97,20,North,Pune,2023-05-02
+2,Headphones,Electronics,3,69698.46,9299.67,10,South,Chennai,2023-09-15
+3,Watch,Accessories,4,187833.44,9428.24,15,North,Delhi,2023-11-10
+4,T-Shirt,Apparel,5,109406.39,13435.9,10,East,Mumbai,2023-07-07
+5,Headphones,Electronics,4,103818.42,20566.81,10,North,Bangalore,2023-05-15
+6,Shoes,Footwear,1,3720.05,1068.48,15,South,Mumbai,2023-09-22
+7,Monitor,Electronics,5,59646.22,6576.38,15,East,Hyderabad,2023-09-21
+8,Headphones,Electronics,1,13309.61,2869.96,5,South,Kolkata,2023-02-23
+9,Monitor,Electronics,4,38601.18,11286.84,5,West,Mumbai,2023-07-21
+10,Keyboard,Electronics,4,10955.0,1438.75,20,South,Pune,2023-02-22
+11,Watch,Accessories,2,96560.28,19481.86,20,North,Chennai,2023-01-15
+12,Laptop,Electronics,1,49350.9,11995.29,15,West,Ahmedabad,2023-03-04
+13,Headphones,Electronics,1,35711.43,8840.15,10,North,Mumbai,2023-08-19
+14,Monitor,Electronics,1,45790.5,12020.45,15,South,Delhi,2023-02-17
+15,Backpack,Accessories,5,183077.53,38334.49,10,East,Delhi,2023-08-15
+16,Shoes,Footwear,3,114476.58,21787.1,10,North,Pune,2023-01-15
+17,Monitor,Electronics,2,44494.31,4468.55,0,West,Chennai,2023-04-06
+18,Keyboard,Electronics,5,64199.83,9796.62,10,North,Hyderabad,2023-01-13
+19,Backpack,Accessories,3,104675.56,28274.64,5,North,Kolkata,2023-05-14
+20,Keyboard,Electronics,3,49665.24,3999.14,0,East,Kolkata,2023-08-13
+21,Laptop,Electronics,1,32560.66,1632.27,20,North,Bangalore,2023-12-25
+22,T-Shirt,Apparel,3,63485.53,6699.43,10,South,Hyderabad,2023-06-01
+23,T-Shirt,Apparel,1,20489.89,1356.9,5,West,Hyderabad,2023-10-22
+24,Mobile Phone,Electronics,3,46180.43,5597.54,0,East,Delhi,2023-01-02
+25,Mobile Phone,Electronics,4,12192.79,1459.01,0,North,Bangalore,2023-05-06
+26,Mobile Phone,Electronics,5,123639.56,36648.33,15,East,Bangalore,2023-07-03
+27,Laptop,Electronics,5,158995.69,33131.91,10,East,Ahmedabad,2023-05-24
+28,Laptop,Electronics,1,16378.61,1582.66,20,East,Hyderabad,2023-09-09
+29,Keyboard,Electronics,3,107105.71,27030.83,15,West,Pune,2023-11-04
+30,Tablet,Electronics,1,20179.82,3621.02,0,East,Hyderabad,2023-05-31
+31,Monitor,Electronics,3,35439.68,3322.07,0,West,Hyderabad,2023-01-02
+32,Laptop,Electronics,4,112542.1,30460.54,0,North,Bangalore,2023-05-27
+33,Headphones,Electronics,4,177643.11,43517.03,15,East,Delhi,2023-04-14
+34,Keyboard,Electronics,3,56783.99,16185.33,0,North,Mumbai,2023-12-04
+35,Mobile Phone,Electronics,3,98316.25,10428.14,0,West,Delhi,2023-10-04
+36,Keyboard,Electronics,3,99155.51,19045.51,15,East,Bangalore,2023-01-22
+37,T-Shirt,Apparel,5,122968.68,34003.88,10,South,Chennai,2023-10-13
+38,Laptop,Electronics,4,134446.96,35768.52,15,North,Ahmedabad,2023-05-27
+39,Keyboard,Electronics,3,115630.27,7041.99,15,West,Kolkata,2023-02-15
+40,Shoes,Footwear,3,112536.24,32440.59,20,North,Kolkata,2023-06-30
+41,Headphones,Electronics,4,170895.87,21124.82,20,West,Pune,2023-06-10
+42,Headphones,Electronics,2,56123.32,15941.19,5,East,Ahmedabad,2023-06-23
+43,Watch,Accessories,2,61885.72,18411.83,5,East,Bangalore,2023-09-30
+44,Watch,Accessories,1,7262.76,1650.3,20,South,Pune,2023-01-26
+45,Headphones,Electronics,2,86840.16,24168.5,5,East,Delhi,2023-02-05
+46,Keyboard,Electronics,1,4011.58,598.51,15,East,Pune,2023-05-23
+47,Mobile Phone,Electronics,2,44408.94,9681.44,10,North,Mumbai,2023-03-04
+48,T-Shirt,Apparel,2,86180.06,9700.67,5,South,Pune,2023-02-23
+49,Shoes,Footwear,1,41479.52,4889.84,15,North,Pune,2023-07-15
+50,T-Shirt,Apparel,5,50609.06,7735.01,10,East,Ahmedabad,2023-11-04
+51,Mobile Phone,Electronics,4,143489.83,8647.68,10,West,Mumbai,2023-12-12
+52,Shoes,Footwear,2,96302.19,24941.79,0,West,Chennai,2023-05-09
+53,Monitor,Electronics,2,16487.27,1855.82,0,West,Chennai,2023-09-29
+54,Backpack,Accessories,5,153900.88,23839.25,15,South,Ahmedabad,2023-03-27
+55,Tablet,Electronics,5,31227.98,1920.54,0,South,Kolkata,2023-07-23
+56,Monitor,Electronics,2,49669.97,8362.83,0,South,Kolkata,2023-12-23
+57,Backpack,Accessories,2,61969.16,12937.51,5,West,Pune,2023-09-07
+58,Headphones,Electronics,2,50602.95,9353.67,20,West,Ahmedabad,2023-10-07
+59,Backpack,Accessories,2,3624.62,712.03,10,West,Ahmedabad,2023-06-27
+60,Headphones,Electronics,4,27443.07,6937.64,10,North,Hyderabad,2023-11-19
+61,Laptop,Electronics,1,32748.5,3329.58,20,North,Hyderabad,2023-04-05
+62,Mobile Phone,Electronics,5,25874.63,5711.87,0,South,Ahmedabad,2023-04-03
+63,Monitor,Electronics,2,3303.92,837.93,0,East,Hyderabad,2023-11-10
+64,Shoes,Footwear,2,63265.34,17041.66,15,North,Chennai,2023-09-06
+65,Keyboard,Electronics,2,42923.62,8246.92,10,North,Bangalore,2023-02-05
+66,Mobile Phone,Electronics,1,38932.44,5263.7,20,West,Delhi,2023-07-02
+67,Backpack,Accessories,1,12292.69,1775.46,0,South,Hyderabad,2023-08-05
+68,T-Shirt,Apparel,5,224142.0,33016.21,15,North,Delhi,2023-03-17
+69,Tablet,Electronics,4,190112.27,54686.13,10,South,Pune,2023-05-24
+70,Shoes,Footwear,5,75069.67,9921.67,10,North,Hyderabad,2023-02-22
+71,Backpack,Accessories,1,6116.5,1729.33,5,East,Kolkata,2023-08-11
+72,Monitor,Electronics,5,184916.3,34483.0,10,South,Pune,2023-03-17
+73,Tablet,Electronics,2,83859.42,22366.75,20,West,Mumbai,2023-10-10
+74,Monitor,Electronics,2,9053.53,644.7,10,West,Ahmedabad,2023-12-31
+75,Laptop,Electronics,4,48863.67,13531.49,20,West,Hyderabad,2023-03-11
+76,Headphones,Electronics,5,96051.93,21733.78,5,South,Bangalore,2023-02-08
+77,Headphones,Electronics,5,5310.03,887.65,5,West,Hyderabad,2023-11-13
+78,Tablet,Electronics,1,34211.45,3741.93,0,East,Hyderabad,2023-11-08
+79,Laptop,Electronics,5,240897.58,12776.87,20,North,Pune,2023-05-29
+80,T-Shirt,Apparel,5,248258.79,16993.1,10,East,Hyderabad,2023-02-16
+81,Tablet,Electronics,1,34939.56,5717.34,20,South,Kolkata,2023-09-16
+82,Backpack,Accessories,1,45805.09,13268.62,15,West,Hyderabad,2023-01-08
+83,Monitor,Electronics,4,130075.98,19129.9,15,South,Hyderabad,2023-08-08
+84,Shoes,Footwear,1,13367.52,2183.05,0,North,Delhi,2023-07-31
+85,Headphones,Electronics,5,235281.63,36270.96,20,East,Delhi,2023-01-10
+86,Watch,Accessories,2,55607.2,5071.85,0,South,Delhi,2023-05-26
+87,Laptop,Electronics,3,89728.41,13030.6,10,East,Delhi,2023-04-08
+88,Tablet,Electronics,3,21377.04,1141.92,15,North,Chennai,2023-12-17
+89,Shoes,Footwear,3,83981.61,20344.28,20,South,Mumbai,2023-03-24
+90,Laptop,Electronics,5,114009.67,9381.84,10,North,Chennai,2023-09-17
+91,Laptop,Electronics,1,37971.46,2343.75,5,South,Mumbai,2023-04-28
+92,Headphones,Electronics,3,47204.92,11994.6,15,North,Kolkata,2023-08-10
+93,Tablet,Electronics,1,7133.75,408.02,20,North,Kolkata,2023-03-07
+94,Headphones,Electronics,4,196131.62,39622.89,5,South,Pune,2023-12-13
+95,Headphones,Electronics,2,35477.29,6332.6,15,South,Pune,2023-04-16
+96,Headphones,Electronics,1,47501.27,4121.61,0,South,Delhi,2023-12-06
+97,Watch,Accessories,5,245058.06,42432.91,20,South,Bangalore,2023-02-12
+98,Headphones,Electronics,1,23275.9,4566.53,10,South,Ahmedabad,2023-01-08
+99,Keyboard,Electronics,4,70442.12,19315.03,10,East,Chennai,2023-06-09
+100,Mobile Phone,Electronics,5,50091.53,3016.37,20,South,Hyderabad,2023-06-19
+101,T-Shirt,Apparel,5,138307.04,25393.99,15,South,Kolkata,2023-02-03
+102,Laptop,Electronics,2,69349.09,4149.02,0,East,Delhi,2023-08-02
+103,Watch,Accessories,3,138249.55,9023.48,5,West,Delhi,2023-01-08
+104,Laptop,Electronics,3,28901.37,2957.69,5,West,Pune,2023-03-19
+105,Watch,Accessories,2,74999.62,4437.79,10,East,Bangalore,2023-04-21
+106,Backpack,Accessories,3,80518.85,6183.28,5,South,Bangalore,2023-01-15
+107,Tablet,Electronics,5,47615.26,9094.1,0,East,Kolkata,2023-05-06
+108,Tablet,Electronics,1,17474.88,2944.39,5,East,Delhi,2023-04-19
+109,Mobile Phone,Electronics,4,108347.1,21312.99,0,West,Bangalore,2023-02-11
+110,Tablet,Electronics,5,92362.87,19532.84,5,East,Ahmedabad,2023-11-11
+111,T-Shirt,Apparel,5,233588.73,12119.42,20,South,Kolkata,2023-04-22
+112,Keyboard,Electronics,3,14551.31,3659.16,0,East,Bangalore,2023-08-31
+113,Watch,Accessories,5,245638.71,19162.21,5,West,Hyderabad,2023-03-16
+114,Keyboard,Electronics,1,24792.06,5720.12,0,South,Pune,2023-07-22
+115,Watch,Accessories,2,28717.93,6960.46,5,South,Hyderabad,2023-10-02
+116,Keyboard,Electronics,1,36944.24,6740.85,0,South,Kolkata,2023-11-16
+117,T-Shirt,Apparel,5,127760.73,36156.74,20,East,Bangalore,2023-06-10
+118,T-Shirt,Apparel,2,45972.53,8603.79,5,West,Mumbai,2023-01-13
+119,Watch,Accessories,2,9698.94,821.56,0,North,Delhi,2023-02-07
+120,Backpack,Accessories,3,53306.94,15052.94,15,West,Mumbai,2023-11-30
+121,Shoes,Footwear,3,140843.56,13423.56,10,North,Ahmedabad,2023-11-16
+122,T-Shirt,Apparel,4,168682.1,14328.38,0,North,Kolkata,2023-11-12
+123,Headphones,Electronics,5,48635.23,5297.49,5,South,Hyderabad,2023-03-30
+124,Monitor,Electronics,1,34307.61,5591.7,10,North,Kolkata,2023-12-19
+125,Backpack,Accessories,1,11994.53,3297.22,5,South,Chennai,2023-04-14
+126,Watch,Accessories,3,82113.12,12964.19,10,East,Bangalore,2023-02-11
+127,Keyboard,Electronics,5,125117.35,29448.27,10,West,Chennai,2023-02-07
+128,Tablet,Electronics,1,35495.53,8683.73,0,South,Hyderabad,2023-03-27
+129,Mobile Phone,Electronics,2,49904.17,11910.07,20,East,Pune,2023-08-16
+130,Watch,Accessories,4,80662.88,20111.18,20,North,Pune,2023-11-20
+131,Mobile Phone,Electronics,3,96710.42,21613.53,15,South,Bangalore,2023-10-10
+132,Shoes,Footwear,4,37956.35,10518.18,5,South,Bangalore,2023-08-06
+133,Watch,Accessories,2,61533.97,3355.3,15,East,Hyderabad,2023-12-22
+134,Keyboard,Electronics,5,230818.6,52351.89,5,North,Hyderabad,2023-10-14
+135,Monitor,Electronics,1,21494.47,5032.09,0,South,Bangalore,2023-09-14
+136,Shoes,Footwear,5,43466.33,4197.99,0,North,Pune,2023-02-24
+137,Headphones,Electronics,5,96378.16,22751.26,5,West,Delhi,2023-04-27
+138,Monitor,Electronics,1,6156.23,945.76,5,East,Kolkata,2023-07-29
+139,Mobile Phone,Electronics,3,68654.36,7287.74,15,East,Bangalore,2023-07-01
+140,Watch,Accessories,1,25169.2,3894.46,0,North,Chennai,2023-03-04
+141,T-Shirt,Apparel,2,2296.35,495.75,0,West,Delhi,2023-06-26
+142,Keyboard,Electronics,4,107943.8,10375.1,0,West,Chennai,2023-08-03
+143,Headphones,Electronics,3,120267.63,16518.37,20,North,Chennai,2023-10-13
+144,Watch,Accessories,3,11257.73,2745.56,5,South,Kolkata,2023-04-23
+145,Mobile Phone,Electronics,3,24553.18,2344.39,20,East,Pune,2023-05-11
+146,Monitor,Electronics,2,89845.61,16319.97,0,East,Pune,2023-10-15
+147,Mobile Phone,Electronics,5,103476.16,19446.34,10,West,Pune,2023-09-12
+148,Watch,Accessories,1,40095.85,3794.52,0,West,Pune,2023-09-21
+149,Mobile Phone,Electronics,3,37611.07,8671.86,10,West,Hyderabad,2023-06-14
+150,T-Shirt,Apparel,5,103082.1,13503.5,5,East,Mumbai,2023-09-20
+151,Laptop,Electronics,5,9066.72,864.59,15,North,Hyderabad,2023-03-23
+152,Mobile Phone,Electronics,1,40963.46,5548.68,5,East,Mumbai,2023-07-14
+153,Backpack,Accessories,4,166469.59,22689.48,0,South,Chennai,2023-12-21
+154,Keyboard,Electronics,2,76596.97,6512.91,5,South,Ahmedabad,2023-02-28
+155,Backpack,Accessories,1,24496.53,4363.19,0,West,Mumbai,2023-08-25
+156,Tablet,Electronics,1,7398.13,1914.14,15,South,Mumbai,2023-01-29
+157,Mobile Phone,Electronics,5,7051.69,1964.42,20,South,Hyderabad,2023-02-10
+158,T-Shirt,Apparel,2,55863.62,11890.86,5,West,Pune,2023-04-27
+159,Monitor,Electronics,5,67761.74,7902.69,10,West,Mumbai,2023-09-25
+160,Tablet,Electronics,5,45904.39,12789.1,5,North,Hyderabad,2023-07-09
+161,Monitor,Electronics,2,17462.05,4095.0,10,North,Hyderabad,2023-10-09
+162,Shoes,Footwear,3,44371.02,6163.94,0,East,Pune,2023-08-20
+163,Headphones,Electronics,2,40268.29,11618.28,20,West,Delhi,2023-09-07
+164,Keyboard,Electronics,4,34078.75,8873.51,0,South,Bangalore,2023-12-31
+165,Mobile Phone,Electronics,1,38660.15,2963.28,0,West,Delhi,2023-05-09
+166,Tablet,Electronics,5,172879.59,27437.17,10,East,Mumbai,2023-08-17
+167,Headphones,Electronics,2,11206.28,1441.68,10,East,Delhi,2023-01-17
+168,Monitor,Electronics,1,22577.29,2173.81,10,West,Pune,2023-05-29
+169,Laptop,Electronics,5,173838.45,45597.64,0,South,Delhi,2023-09-25
+170,Monitor,Electronics,1,47230.94,2827.09,5,West,Pune,2023-10-09
+171,Shoes,Footwear,2,31972.63,2561.99,0,East,Ahmedabad,2023-11-24
+172,Mobile Phone,Electronics,3,141723.57,23888.01,15,East,Bangalore,2023-04-13
+173,Laptop,Electronics,3,84760.56,14431.8,10,North,Bangalore,2023-07-02
+174,Backpack,Accessories,4,115340.7,28949.85,15,North,Kolkata,2023-07-29
+175,Laptop,Electronics,5,154926.14,16769.19,10,South,Mumbai,2023-09-08
+176,Backpack,Accessories,5,133411.94,37991.31,10,East,Pune,2023-10-29
+177,Keyboard,Electronics,5,192379.1,28949.73,20,West,Delhi,2023-09-29
+178,Watch,Accessories,4,196848.53,47650.8,0,East,Pune,2023-12-06
+179,Shoes,Footwear,1,12319.47,956.22,5,West,Mumbai,2023-10-20
+180,Tablet,Electronics,1,45561.79,2791.81,0,North,Ahmedabad,2023-05-20
+181,Monitor,Electronics,5,197120.39,14262.2,10,South,Chennai,2023-08-14
+182,Tablet,Electronics,4,14867.31,2235.97,20,East,Kolkata,2023-08-31
+183,Monitor,Electronics,3,27714.41,2913.38,0,South,Bangalore,2023-09-19
+184,Shoes,Footwear,5,158370.04,16483.31,0,East,Hyderabad,2023-08-29
+185,Monitor,Electronics,3,114098.41,25558.63,10,West,Bangalore,2023-09-26
+186,Watch,Accessories,5,135401.17,26841.25,20,South,Bangalore,2023-04-15
+187,Watch,Accessories,3,42034.47,7110.94,10,North,Mumbai,2023-11-28
+188,Monitor,Electronics,1,16788.04,4749.29,10,East,Mumbai,2023-05-04
+189,T-Shirt,Apparel,3,108927.89,18950.07,20,West,Ahmedabad,2023-10-11
+190,Shoes,Footwear,5,213173.71,37046.74,20,East,Mumbai,2023-11-19
+191,Watch,Accessories,2,54834.11,14592.63,0,South,Ahmedabad,2023-05-27
+192,Watch,Accessories,4,170415.18,45470.78,0,North,Bangalore,2023-02-14
+193,Tablet,Electronics,5,170834.84,34961.84,15,East,Chennai,2023-08-23
+194,Monitor,Electronics,1,1947.74,499.51,5,West,Bangalore,2023-06-07
+195,Backpack,Accessories,2,81978.74,21153.26,20,West,Pune,2023-08-12
+196,Laptop,Electronics,1,31774.77,3652.54,15,West,Ahmedabad,2023-12-31
+197,Headphones,Electronics,3,114512.64,21221.1,5,East,Hyderabad,2023-03-01
+198,Shoes,Footwear,5,197729.73,18475.54,15,South,Hyderabad,2023-08-07
+199,Laptop,Electronics,4,15335.42,2998.73,0,South,Mumbai,2023-04-30
+200,Mobile Phone,Electronics,2,99024.69,21687.7,15,West,Bangalore,2023-08-15
